@@ -1,25 +1,25 @@
+
 ID: 1
 Usuário: teste
-Raça: rnd
-Idade: 1
-Telefone: 
+Raça: rete
+Idade: 12
+Telefone: 122
 ---------------------
 ID: 2
 Usuário: teste2
-Raça: rnd
-Idade: 1
-Telefone: 
+Raça: alemão
+Idade: 45
+Telefone: 1212
 ---------------------
 ID: 3
 Usuário: teste3
-Raça: caramelo
-Idade: 12
-Telefone: 4444
+Raça: budog
+Idade: 54
+Telefone: 121234
 ---------------------
-ID: 5
-Usuário: testerr
-
-Raça: rns==
-Idade: 12
-Telefone: 2222222
+ID: 4
+Usuário: teste4
+Raça: teste4
+Idade: 13
+Telefone: 31
 ---------------------

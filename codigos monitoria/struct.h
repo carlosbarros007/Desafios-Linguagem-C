@@ -1,7 +1,6 @@
 typedef struct {
     int id;
     char usuario[50];
-    char cpf[15]; 
     char raca[50];
     char idade[3];
     char telefone[15];

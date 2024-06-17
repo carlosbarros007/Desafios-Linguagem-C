@@ -1,6 +1,6 @@
 Cliente* leituraTxtCliente(int *num_clientes) {
     FILE *file;
-    char buffer[256];
+    char buffer[500];
     Cliente *clientes = NULL;
     int num_linhas = 0;
     int i = 0;
@@ -98,6 +98,8 @@ void cadastraCliente(){
     fprintf(file, "Idade: %s\n", cliente.idade);
     fprintf(file, "Telefone: %s\n", cliente.telefone);
     fprintf(file, "---------------------\n");
+
+    fclose(file);
 }
 
 void cadastraServico() {
