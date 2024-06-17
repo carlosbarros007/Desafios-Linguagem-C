@@ -1,0 +1,20 @@
+ID: 1
+ServicoBanho: banho
+ServicoTosa: tosa
+ValorBanho: 45
+ValorTosa: 120
+---------------------
+ID: 1
+ServicoBanho: banho
+ServicoTosa: tsa
+ValorBanho: 45
+ValorTosa: 45
+Cliente: teste
+---------------------
+ID: 15
+ServicoBanho: banho
+ServicoTosa: tosa
+ValorBanho: 45
+ValorTosa: 45
+Cliente: testerr
+---------------------

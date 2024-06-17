@@ -1,0 +1,25 @@
+ID: 1
+Usuário: teste
+Raça: rnd
+Idade: 1
+Telefone: 
+---------------------
+ID: 2
+Usuário: teste2
+Raça: rnd
+Idade: 1
+Telefone: 
+---------------------
+ID: 3
+Usuário: teste3
+Raça: caramelo
+Idade: 12
+Telefone: 4444
+---------------------
+ID: 5
+Usuário: testerr
+
+Raça: rns==
+Idade: 12
+Telefone: 2222222
+---------------------
